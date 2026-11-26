@@ -401,9 +401,14 @@ async function openConversation(id) {
   try {
     const d = await api('/api/conversations/' + encodeURIComponent(id));
     S.convId = d.id; S.title = d.title || '';
+    let skipReply = false; // filter removals are silent live, so hide them (and their reply) on restore too
     S.messages = (d.messages || []).flatMap((m) => {
       const text = m.text ?? m.content ?? '';
-      if (m.role === 'user') return [{ role: 'user', text }];
+      if (m.role === 'user') {
+        skipReply = /^Remove the ["“].*["”] filter\.$/.test(String(text).trim());
+        return skipReply ? [] : [{ role: 'user', text }];
+      }
+      if (skipReply) { skipReply = false; return []; }
       const msg = { role: 'assistant', kind: m.options && m.options.length ? 'question' : 'text', text, options: m.options || [] };
       const steps = Array.isArray(m.steps) ? m.steps.filter((x) => x && x.label) : [];
       return steps.length

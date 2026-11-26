@@ -1,0 +1,31 @@
+{
+ "11371": {
+  "_model": "google/gemini-3.1-flash-lite",
+  "buttons": "black, 10mm, plastic",
+  "checks_across_chest": null,
+  "collar": "spread collar",
+  "colours": [
+   "black"
+  ],
+  "hem": "curved",
+  "logo": "none",
+  "pattern_scale": "solid",
+  "pocket": "none",
+  "sleeve_style": "three-quarter length with wide cuffs"
+ },
+ "13884": {
+  "_model": "google/gemini-3.1-flash-lite",
+  "buttons": "black, small, plastic",
+  "checks_across_chest": 85,
+  "collar": "standard point collar",
+  "colours": [
+   "black",
+   "white"
+  ],
+  "hem": "curved",
+  "logo": "embroidered crest on the pocket",
+  "pattern_scale": "micro-check, about 1 mm",
+  "pocket": "one patch pocket on image right",
+  "sleeve_style": "long sleeves with roll-up tabs"
+ }
+}

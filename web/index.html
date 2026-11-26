@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fitting Room</title>
+<link rel="preload" href="vendor/geist.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+  <aside class="side">
+    <div class="mark">Fitting Room</div>
+    <button class="fresh" id="new-search" type="button"><i data-lucide="plus"></i><span>New search</span></button>
+    <nav class="nav" aria-label="Main">
+      <button type="button" data-view="find"><i data-lucide="search"></i><span>Find</span></button>
+      <button type="button" data-view="try"><i data-lucide="scan-face"></i><span>Try on</span></button>
+      <button type="button" data-view="list"><i data-lucide="heart"></i><span>Shortlist</span><span class="n" id="list-count"></span></button>
+    </nav>
+    <div class="past" id="history" role="region" aria-label="History"></div>
+  </aside>
+
+  <!-- ================= FIND ================= -->
+  <main class="view" id="v-find">
+    <div class="find">
+      <section class="talk" aria-label="Conversation">
+        <div class="thread" id="thread" role="log" aria-live="polite" aria-relevant="additions text"></div>
+        <form class="write" id="composer" autocomplete="off">
+          <div class="box">
+            <input id="message" aria-label="Message" placeholder="Describe what you're looking for" enterkeyhint="send">
+            <button class="round go" id="send" aria-label="Send" type="submit"><i data-lucide="arrow-up"></i></button>
+          </div>
+        </form>
+      </section>
+
+      <section class="rack" id="rack" aria-label="Results">
+        <div id="rack-top"></div>
+        <div id="sizing"></div>
+      </section>
+    </div>
+  </main>
+
+  <!-- ================= TRY ON ================= -->
+  <main class="view" id="v-try" hidden>
+    <div class="tryon">
+      <section class="looks" id="looks" aria-label="Try on"></section>
+      <aside class="panel" id="panel" aria-label="Choose a shirt"></aside>
+    </div>
+    <input type="file" id="photo-file" accept="image/*" class="sr-only" tabindex="-1" aria-hidden="true">
+  </main>
+
+  <!-- ================= SHORTLIST ================= -->
+  <main class="view" id="v-list" hidden>
+    <div class="list"><div class="list-in" id="list-in"></div></div>
+  </main>
+</div>
+
+<script src="vendor/lucide.min.js"></script>
+<script type="module" src="app.js"></script>
+</body>
+</html>

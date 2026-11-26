@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" width="800" height="460" role="img" aria-labelledby="t d">
+<title id="t">Try-on pipeline around the model</title>
+<desc id="d">The user photo is parsed, cropped to the torso and sent with the extracted catalog garment to a try-on model. Only the shirt region is pasted back into the original photo, colour matched, and checked for drift, with one retry.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#141414;font-size:15px}
+.s{font-size:13px;fill:#45453F}
+.b{font-weight:600;font-size:14px}
+.box{fill:#fff;stroke:#141414;stroke-width:1}
+.m{fill:#fff;stroke:#C8322B;stroke-width:1.5}
+.ln{stroke:#141414;stroke-width:1;fill:none}
+.acc{fill:#C8322B;font-size:13px}
+.dash{stroke:#7C7C75;stroke-width:1;fill:none;stroke-dasharray:5 4}
+</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#141414"/></marker></defs>
+<rect width="800" height="460" fill="#fff"/>
+
+<text x="20" y="34" class="s">User photo in</text>
+<path class="ln" d="M60 42V108" marker-end="url(#a)"/>
+<rect class="box" x="420" y="14" width="160" height="50"/>
+<text x="500" y="34" text-anchor="middle" class="b">Catalog photo</text>
+<text x="500" y="52" text-anchor="middle" class="s">parser: top mask</text>
+<path class="ln" d="M500 64V108" marker-end="url(#a)"/>
+<text x="508" y="90" class="s">garment</text>
+
+<rect class="box" x="20" y="110" width="160" height="60"/>
+<text x="100" y="134" text-anchor="middle" class="b">1. Parse</text><text x="100" y="153" text-anchor="middle" class="s">FASHN human parser</text>
+<rect class="box" x="220" y="110" width="160" height="60"/>
+<text x="300" y="134" text-anchor="middle" class="b">2. Crop</text><text x="300" y="153" text-anchor="middle" class="s">torso, 3:4 box</text>
+<rect class="m" x="420" y="110" width="160" height="60"/>
+<text x="500" y="134" text-anchor="middle" class="b">3. Try-on model</text><text x="500" y="153" text-anchor="middle" class="s">any backend</text>
+<rect class="box" x="620" y="110" width="160" height="60"/>
+<text x="700" y="134" text-anchor="middle" class="b">4. Paste back</text><text x="700" y="153" text-anchor="middle" class="s">shirt region only</text>
+<path class="ln" d="M182 140H218" marker-end="url(#a)"/><path class="ln" d="M382 140H418" marker-end="url(#a)"/><path class="ln" d="M582 140H618" marker-end="url(#a)"/>
+
+<path class="ln" d="M700 170V290" marker-end="url(#a)"/>
+<rect class="box" x="620" y="292" width="160" height="60"/>
+<text x="700" y="316" text-anchor="middle" class="b">5. Colour match</text><text x="700" y="335" text-anchor="middle" class="s">inside the mask</text>
+<rect class="box" x="420" y="292" width="160" height="60"/>
+<text x="500" y="316" text-anchor="middle" class="b">6. Check</text><text x="500" y="335" text-anchor="middle" class="s">drift and silhouette IoU</text>
+<rect class="box" x="220" y="292" width="160" height="60"/>
+<text x="300" y="316" text-anchor="middle" class="b">Final image</text><text x="300" y="335" text-anchor="middle" class="s">original resolution</text>
+<path class="ln" d="M618 322H582" marker-end="url(#a)"/><path class="ln" d="M418 322H382" marker-end="url(#a)"/>
+<path class="ln" d="M460 292V232H460V172" marker-end="url(#a)"/>
+<text x="468" y="236" class="acc">retry once if the body moved</text>
+
+<line class="dash" x1="20" y1="384" x2="780" y2="384"/>
+<text x="20" y="408" class="b">Guaranteed:</text><text x="110" y="408">pixels outside the shirt mask are the original pixels.</text>
+<text x="20" y="430" class="b">Not fixed:</text><text x="104" y="430">a model that resizes the body, the softness of a low-resolution model,</text>
+<text x="104" y="448">and garments worn open over another layer.</text>
+</svg>

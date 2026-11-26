@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 510" width="800" height="510" role="img" aria-labelledby="t d">
+<title id="t">Fitting Room system overview, local by default</title>
+<desc id="d">A browser talks over HTTPS and server-sent events to one FastAPI process holding the agent loop, catalog search, size engine and try-on dispatcher. By default the chat model, the embedding model and the try-on model all run locally on the same machine. OpenRouter is an optional provider that replaces them.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#141414;font-size:15px}
+.s{font-size:13px;fill:#45453F}
+.b{font-weight:600}
+.box{fill:#fff;stroke:#141414;stroke-width:1}
+.m{fill:#fff;stroke:#C8322B;stroke-width:1.5}
+.ln{stroke:#141414;stroke-width:1;fill:none}
+.dash{stroke:#7C7C75;stroke-width:1;fill:none;stroke-dasharray:5 4}
+</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#141414"/></marker></defs>
+<rect width="800" height="510" fill="#fff"/>
+<text x="16" y="26" class="b">Default: everything runs on this machine, with no network calls at runtime</text>
+
+<rect class="box" x="16" y="110" width="130" height="140"/>
+<text x="81" y="140" text-anchor="middle" class="b">Browser</text>
+<text x="81" y="166" text-anchor="middle" class="s">static page, web/</text>
+<text x="81" y="190" text-anchor="middle" class="s">Find</text>
+<text x="81" y="210" text-anchor="middle" class="s">Try on</text>
+<text x="81" y="230" text-anchor="middle" class="s">Shortlist</text>
+
+<path class="ln" d="M148 185H226" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="187" y="172" text-anchor="middle" class="s">HTTP</text>
+<text x="187" y="206" text-anchor="middle" class="s">+ SSE</text>
+
+<rect class="box" x="228" y="56" width="240" height="290"/>
+<text x="348" y="80" text-anchor="middle" class="b">FastAPI app, one process</text>
+<rect class="box" x="244" y="94" width="208" height="44"/><text x="348" y="121" text-anchor="middle">Agent loop</text>
+<rect class="box" x="244" y="152" width="208" height="44"/><text x="348" y="179" text-anchor="middle">Catalog search</text>
+<rect class="box" x="244" y="210" width="208" height="44"/><text x="348" y="230" text-anchor="middle">Size engine</text><text x="348" y="246" text-anchor="middle" class="s">plain code, no model</text>
+<rect class="box" x="244" y="268" width="208" height="64"/><text x="348" y="291" text-anchor="middle">Try-on dispatcher</text><text x="348" y="308" text-anchor="middle" class="s">TRYON_PROVIDER,</text><text x="348" y="324" text-anchor="middle" class="s">default dmvton</text>
+
+<rect class="dash" x="508" y="40" width="276" height="306"/>
+<text x="520" y="62" class="b">Local models (default)</text>
+<rect class="m" x="522" y="94" width="248" height="44"/>
+<text x="646" y="113" text-anchor="middle">Chat model</text><text x="646" y="129" text-anchor="middle" class="s">Qwen3-4B-Instruct-2507, 4-bit</text>
+<rect class="m" x="522" y="152" width="248" height="44"/>
+<text x="646" y="171" text-anchor="middle">Embedding model</text><text x="646" y="187" text-anchor="middle" class="s">bge-small-en-v1.5</text>
+<rect class="m" x="522" y="268" width="248" height="64"/>
+<text x="646" y="288" text-anchor="middle">Try-on model</text><text x="646" y="305" text-anchor="middle" class="s">DM-VTON, plus the FASHN</text><text x="646" y="321" text-anchor="middle" class="s">human parser</text>
+<path class="ln" d="M452 116H520" marker-end="url(#a)"/>
+<path class="ln" d="M452 174H520" marker-end="url(#a)"/>
+<path class="ln" d="M452 300H520" marker-end="url(#a)"/>
+
+<path class="ln" d="M348 346V366M90 366H405M90 366V380M248 366V380M405 366V380" marker-end="url(#a)"/>
+<rect class="box" x="16" y="382" width="148" height="56"/>
+<text x="90" y="406" text-anchor="middle">data/state.sqlite</text><text x="90" y="424" text-anchor="middle" class="s">chats, shortlist</text>
+<rect class="box" x="174" y="382" width="148" height="56"/>
+<text x="248" y="406" text-anchor="middle">data/catalog/</text><text x="248" y="424" text-anchor="middle" class="s">items, embeddings</text>
+<rect class="box" x="332" y="382" width="148" height="56"/>
+<text x="406" y="406" text-anchor="middle">data/uploads, tryon</text><text x="406" y="424" text-anchor="middle" class="s">user photos, results</text>
+<text x="16" y="466" class="s">Messages and photos leave the machine only if OpenRouter is chosen.</text>
+
+<path class="dash" d="M646 346V384" marker-end="url(#a)"/>
+<text x="656" y="370" class="s">or, by choice</text>
+<rect class="dash" x="508" y="386" width="276" height="106"/>
+<text x="520" y="408" class="b">Optional: OpenRouter instead</text>
+<text x="520" y="430" class="s">Chat: qwen/qwen3.5-9b</text>
+<text x="520" y="450" class="s">Embeddings: baai/bge-base-en-v1.5</text>
+<text x="520" y="470" class="s">Try-on: image model (parser local)</text>
+<rect class="m" x="16" y="478" width="16" height="12"/><text x="38" y="489" class="s">a model call</text>
+</svg>

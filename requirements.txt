@@ -1,0 +1,26 @@
+# Everything, for local development and the fully local mode.
+# The hosted-only subset is requirements-hosted.txt.
+fastapi
+uvicorn[standard]
+python-multipart
+numpy
+pillow
+pytest
+httpx
+# local chat + embeddings (app/llm.py, LLM_PROVIDER=local)
+llama-cpp-python
+jinja2
+# try-on (FASHN VTON v1.5, TRYON_PROVIDER=fashn; the package itself installs from vendor/ via scripts/fetch_tryon_model.sh)
+torch
+torchvision
+safetensors
+huggingface_hub
+opencv-python
+einops
+onnxruntime
+matplotlib
+fashn-human-parser>=0.1.1
+# catalog enrichment (zero-shot CLIP, ingest only)
+transformers
+# Mobile-VTON try-on (app/tryon_mobilevton.py; code+weights via scripts/fetch_mobilevton.sh, CC BY-NC-SA 4.0)
+diffusers>=0.43

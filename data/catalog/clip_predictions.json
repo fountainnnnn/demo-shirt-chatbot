@@ -1,0 +1,1202 @@
+{
+ "15970": {
+  "sleeve": {
+   "short": 0.95,
+   "long": 0.05
+  },
+  "pattern": {
+   "solid": 0.468,
+   "striped": 0.1397,
+   "checked": 0.3706,
+   "printed": 0.0217
+  }
+ },
+ "30805": {
+  "sleeve": {
+   "short": 0.8335,
+   "long": 0.1665
+  },
+  "pattern": {
+   "solid": 0.9504,
+   "striped": 0.0225,
+   "checked": 0.0129,
+   "printed": 0.0142
+  }
+ },
+ "26960": {
+  "sleeve": {
+   "short": 0.9851,
+   "long": 0.0149
+  },
+  "pattern": {
+   "solid": 0.9829,
+   "striped": 0.0025,
+   "checked": 0.0001,
+   "printed": 0.0144
+  }
+ },
+ "12369": {
+  "sleeve": {
+   "short": 0.818,
+   "long": 0.182
+  },
+  "pattern": {
+   "solid": 0.956,
+   "striped": 0.0068,
+   "checked": 0.009,
+   "printed": 0.0282
+  }
+ },
+ "37812": {
+  "sleeve": {
+   "short": 0.4835,
+   "long": 0.5165
+  },
+  "pattern": {
+   "solid": 0.888,
+   "striped": 0.005,
+   "checked": 0.0007,
+   "printed": 0.1063
+  }
+ },
+ "56825": {
+  "sleeve": {
+   "short": 0.9844,
+   "long": 0.0156
+  },
+  "pattern": {
+   "solid": 0.5877,
+   "striped": 0.1071,
+   "checked": 0.2932,
+   "printed": 0.012
+  }
+ },
+ "9452": {
+  "sleeve": {
+   "short": 0.7676,
+   "long": 0.2324
+  },
+  "pattern": {
+   "solid": 0.518,
+   "striped": 0.3723,
+   "checked": 0.0579,
+   "printed": 0.0519
+  }
+ },
+ "4943": {
+  "sleeve": {
+   "short": 0.9818,
+   "long": 0.0182
+  },
+  "pattern": {
+   "solid": 0.1259,
+   "striped": 0.2965,
+   "checked": 0.5397,
+   "printed": 0.0379
+  }
+ },
+ "9660": {
+  "sleeve": {
+   "short": 0.5569,
+   "long": 0.4431
+  },
+  "pattern": {
+   "solid": 0.536,
+   "striped": 0.412,
+   "checked": 0.0263,
+   "printed": 0.0257
+  }
+ },
+ "15984": {
+  "sleeve": {
+   "short": 0.8865,
+   "long": 0.1135
+  },
+  "pattern": {
+   "solid": 0.7821,
+   "striped": 0.1277,
+   "checked": 0.0712,
+   "printed": 0.019
+  }
+ },
+ "59297": {
+  "sleeve": {
+   "short": 0.7626,
+   "long": 0.2374
+  },
+  "pattern": {
+   "solid": 0.6131,
+   "striped": 0.1805,
+   "checked": 0.1852,
+   "printed": 0.0212
+  }
+ },
+ "7158": {
+  "sleeve": {
+   "short": 0.9343,
+   "long": 0.0657
+  },
+  "pattern": {
+   "solid": 0.2831,
+   "striped": 0.0929,
+   "checked": 0.6081,
+   "printed": 0.0159
+  }
+ },
+ "16392": {
+  "sleeve": {
+   "short": 0.9785,
+   "long": 0.0215
+  },
+  "pattern": {
+   "solid": 0.9901,
+   "striped": 0.0046,
+   "checked": 0.0012,
+   "printed": 0.0041
+  }
+ },
+ "6617": {
+  "sleeve": {
+   "short": 0.8764,
+   "long": 0.1236
+  },
+  "pattern": {
+   "solid": 0.0096,
+   "striped": 0.089,
+   "checked": 0.8987,
+   "printed": 0.0027
+  }
+ },
+ "22395": {
+  "sleeve": {
+   "short": 0.6938,
+   "long": 0.3062
+  },
+  "pattern": {
+   "solid": 0.8691,
+   "striped": 0.057,
+   "checked": 0.0244,
+   "printed": 0.0494
+  }
+ },
+ "12500": {
+  "sleeve": {
+   "short": 0.2018,
+   "long": 0.7982
+  },
+  "pattern": {
+   "solid": 0.51,
+   "striped": 0.0061,
+   "checked": 0.0051,
+   "printed": 0.4788
+  }
+ },
+ "16530": {
+  "sleeve": {
+   "short": 0.9316,
+   "long": 0.0684
+  },
+  "pattern": {
+   "solid": 0.4762,
+   "striped": 0.045,
+   "checked": 0.4712,
+   "printed": 0.0075
+  }
+ },
+ "7167": {
+  "sleeve": {
+   "short": 0.9685,
+   "long": 0.0315
+  },
+  "pattern": {
+   "solid": 0.6196,
+   "striped": 0.1374,
+   "checked": 0.2263,
+   "printed": 0.0167
+  }
+ },
+ "12190": {
+  "sleeve": {
+   "short": 0.5248,
+   "long": 0.4752
+  },
+  "pattern": {
+   "solid": 0.1729,
+   "striped": 0.0791,
+   "checked": 0.7439,
+   "printed": 0.0041
+  }
+ },
+ "14055": {
+  "sleeve": {
+   "short": 0.8414,
+   "long": 0.1586
+  },
+  "pattern": {
+   "solid": 0.2522,
+   "striped": 0.0181,
+   "checked": 0.7254,
+   "printed": 0.0043
+  }
+ },
+ "34036": {
+  "sleeve": {
+   "short": 0.9723,
+   "long": 0.0277
+  },
+  "pattern": {
+   "solid": 0.3702,
+   "striped": 0.0247,
+   "checked": 0.587,
+   "printed": 0.0182
+  }
+ },
+ "8779": {
+  "sleeve": {
+   "short": 0.8188,
+   "long": 0.1812
+  },
+  "pattern": {
+   "solid": 0.9551,
+   "striped": 0.0103,
+   "checked": 0.0022,
+   "printed": 0.0323
+  }
+ },
+ "11143": {
+  "sleeve": {
+   "short": 0.7625,
+   "long": 0.2375
+  },
+  "pattern": {
+   "solid": 0.5731,
+   "striped": 0.156,
+   "checked": 0.2245,
+   "printed": 0.0464
+  }
+ },
+ "11371": {
+  "sleeve": {
+   "short": 0.3933,
+   "long": 0.6067
+  },
+  "pattern": {
+   "solid": 0.9871,
+   "striped": 0.0028,
+   "checked": 0.0007,
+   "printed": 0.0094
+  }
+ },
+ "13846": {
+  "sleeve": {
+   "short": 0.7725,
+   "long": 0.2275
+  },
+  "pattern": {
+   "solid": 0.2401,
+   "striped": 0.7102,
+   "checked": 0.0469,
+   "printed": 0.0029
+  }
+ },
+ "15983": {
+  "sleeve": {
+   "short": 0.8982,
+   "long": 0.1018
+  },
+  "pattern": {
+   "solid": 0.9957,
+   "striped": 0.0018,
+   "checked": 0.0002,
+   "printed": 0.0022
+  }
+ },
+ "43960": {
+  "sleeve": {
+   "short": 0.6716,
+   "long": 0.3284
+  },
+  "pattern": {
+   "solid": 0.9438,
+   "striped": 0.0159,
+   "checked": 0.0144,
+   "printed": 0.026
+  }
+ },
+ "8741": {
+  "sleeve": {
+   "short": 0.9127,
+   "long": 0.0873
+  },
+  "pattern": {
+   "solid": 0.2975,
+   "striped": 0.4028,
+   "checked": 0.2917,
+   "printed": 0.008
+  }
+ },
+ "22359": {
+  "sleeve": {
+   "short": 0.7462,
+   "long": 0.2538
+  },
+  "pattern": {
+   "solid": 0.9145,
+   "striped": 0.0111,
+   "checked": 0.0684,
+   "printed": 0.006
+  }
+ },
+ "4944": {
+  "sleeve": {
+   "short": 0.9818,
+   "long": 0.0182
+  },
+  "pattern": {
+   "solid": 0.1259,
+   "striped": 0.2965,
+   "checked": 0.5397,
+   "printed": 0.0379
+  }
+ },
+ "9667": {
+  "sleeve": {
+   "short": 0.8453,
+   "long": 0.1547
+  },
+  "pattern": {
+   "solid": 0.9372,
+   "striped": 0.0452,
+   "checked": 0.0046,
+   "printed": 0.013
+  }
+ },
+ "8587": {
+  "sleeve": {
+   "short": 0.9275,
+   "long": 0.0725
+  },
+  "pattern": {
+   "solid": 0.2834,
+   "striped": 0.0291,
+   "checked": 0.6829,
+   "printed": 0.0045
+  }
+ },
+ "9455": {
+  "sleeve": {
+   "short": 0.8625,
+   "long": 0.1375
+  },
+  "pattern": {
+   "solid": 0.8864,
+   "striped": 0.0892,
+   "checked": 0.0107,
+   "printed": 0.0137
+  }
+ },
+ "26369": {
+  "sleeve": {
+   "short": 0.9486,
+   "long": 0.0514
+  },
+  "pattern": {
+   "solid": 0.9764,
+   "striped": 0.0131,
+   "checked": 0.0021,
+   "printed": 0.0083
+  }
+ },
+ "33489": {
+  "sleeve": {
+   "short": 0.9905,
+   "long": 0.0095
+  },
+  "pattern": {
+   "solid": 0.4977,
+   "striped": 0.1104,
+   "checked": 0.3513,
+   "printed": 0.0406
+  }
+ },
+ "15977": {
+  "sleeve": {
+   "short": 0.7589,
+   "long": 0.2411
+  },
+  "pattern": {
+   "solid": 0.9973,
+   "striped": 0.0002,
+   "checked": 0.0002,
+   "printed": 0.0022
+  }
+ },
+ "30802": {
+  "sleeve": {
+   "short": 0.9857,
+   "long": 0.0143
+  },
+  "pattern": {
+   "solid": 0.9391,
+   "striped": 0.0237,
+   "checked": 0.0041,
+   "printed": 0.0332
+  }
+ },
+ "16361": {
+  "sleeve": {
+   "short": 0.8468,
+   "long": 0.1532
+  },
+  "pattern": {
+   "solid": 0.9948,
+   "striped": 0.0008,
+   "checked": 0.0002,
+   "printed": 0.0042
+  }
+ },
+ "34031": {
+  "sleeve": {
+   "short": 0.959,
+   "long": 0.041
+  },
+  "pattern": {
+   "solid": 0.3103,
+   "striped": 0.0323,
+   "checked": 0.6298,
+   "printed": 0.0276
+  }
+ },
+ "11144": {
+  "sleeve": {
+   "short": 0.7625,
+   "long": 0.2375
+  },
+  "pattern": {
+   "solid": 0.5731,
+   "striped": 0.156,
+   "checked": 0.2245,
+   "printed": 0.0464
+  }
+ },
+ "14052": {
+  "sleeve": {
+   "short": 0.7898,
+   "long": 0.2102
+  },
+  "pattern": {
+   "solid": 0.9161,
+   "striped": 0.0022,
+   "checked": 0.0023,
+   "printed": 0.0794
+  }
+ },
+ "11712": {
+  "sleeve": {
+   "short": 0.4842,
+   "long": 0.5158
+  },
+  "pattern": {
+   "solid": 0.9362,
+   "striped": 0.0031,
+   "checked": 0.001,
+   "printed": 0.0597
+  }
+ },
+ "25527": {
+  "sleeve": {
+   "short": 0.8963,
+   "long": 0.1037
+  },
+  "pattern": {
+   "solid": 0.6084,
+   "striped": 0.3683,
+   "checked": 0.0027,
+   "printed": 0.0206
+  }
+ },
+ "13879": {
+  "sleeve": {
+   "short": 0.4029,
+   "long": 0.5971
+  },
+  "pattern": {
+   "solid": 0.9472,
+   "striped": 0.0038,
+   "checked": 0.0463,
+   "printed": 0.0027
+  }
+ },
+ "26958": {
+  "sleeve": {
+   "short": 0.9694,
+   "long": 0.0306
+  },
+  "pattern": {
+   "solid": 0.9957,
+   "striped": 0.0009,
+   "checked": 0.0001,
+   "printed": 0.0033
+  }
+ },
+ "13283": {
+  "sleeve": {
+   "short": 0.2577,
+   "long": 0.7423
+  },
+  "pattern": {
+   "solid": 0.0543,
+   "striped": 0.0235,
+   "checked": 0.876,
+   "printed": 0.0463
+  }
+ },
+ "37224": {
+  "sleeve": {
+   "short": 0.9462,
+   "long": 0.0538
+  },
+  "pattern": {
+   "solid": 0.9672,
+   "striped": 0.0131,
+   "checked": 0.0132,
+   "printed": 0.0065
+  }
+ },
+ "21173": {
+  "sleeve": {
+   "short": 0.5357,
+   "long": 0.4643
+  },
+  "pattern": {
+   "solid": 0.8854,
+   "striped": 0.031,
+   "checked": 0.08,
+   "printed": 0.0036
+  }
+ },
+ "6046": {
+  "sleeve": {
+   "short": 0.9793,
+   "long": 0.0207
+  },
+  "pattern": {
+   "solid": 0.9873,
+   "striped": 0.0066,
+   "checked": 0.0002,
+   "printed": 0.0058
+  }
+ },
+ "24065": {
+  "sleeve": {
+   "short": 0.906,
+   "long": 0.094
+  },
+  "pattern": {
+   "solid": 0.1209,
+   "striped": 0.0547,
+   "checked": 0.8194,
+   "printed": 0.005
+  }
+ },
+ "16395": {
+  "sleeve": {
+   "short": 0.9672,
+   "long": 0.0328
+  },
+  "pattern": {
+   "solid": 0.1042,
+   "striped": 0.22,
+   "checked": 0.6663,
+   "printed": 0.0096
+  }
+ },
+ "9658": {
+  "sleeve": {
+   "short": 0.6433,
+   "long": 0.3567
+  },
+  "pattern": {
+   "solid": 0.8452,
+   "striped": 0.1174,
+   "checked": 0.0161,
+   "printed": 0.0213
+  }
+ },
+ "34038": {
+  "sleeve": {
+   "short": 0.9558,
+   "long": 0.0442
+  },
+  "pattern": {
+   "solid": 0.3354,
+   "striped": 0.0025,
+   "checked": 0.6181,
+   "printed": 0.044
+  }
+ },
+ "8777": {
+  "sleeve": {
+   "short": 0.8476,
+   "long": 0.1524
+  },
+  "pattern": {
+   "solid": 0.8113,
+   "striped": 0.1407,
+   "checked": 0.024,
+   "printed": 0.0239
+  }
+ },
+ "39727": {
+  "sleeve": {
+   "short": 0.7898,
+   "long": 0.2102
+  },
+  "pattern": {
+   "solid": 0.9779,
+   "striped": 0.0183,
+   "checked": 0.0024,
+   "printed": 0.0014
+  }
+ },
+ "7169": {
+  "sleeve": {
+   "short": 0.9137,
+   "long": 0.0863
+  },
+  "pattern": {
+   "solid": 0.9503,
+   "striped": 0.0088,
+   "checked": 0.0312,
+   "printed": 0.0096
+  }
+ },
+ "13870": {
+  "sleeve": {
+   "short": 0.9628,
+   "long": 0.0372
+  },
+  "pattern": {
+   "solid": 0.6171,
+   "striped": 0.2859,
+   "checked": 0.0655,
+   "printed": 0.0315
+  }
+ },
+ "27877": {
+  "sleeve": {
+   "short": 0.8965,
+   "long": 0.1035
+  },
+  "pattern": {
+   "solid": 0.9301,
+   "striped": 0.0199,
+   "checked": 0.0062,
+   "printed": 0.0437
+  }
+ },
+ "13884": {
+  "sleeve": {
+   "short": 0.6527,
+   "long": 0.3473
+  },
+  "pattern": {
+   "solid": 0.3771,
+   "striped": 0.0348,
+   "checked": 0.0906,
+   "printed": 0.4976
+  }
+ },
+ "12358": {
+  "sleeve": {
+   "short": 0.9521,
+   "long": 0.0479
+  },
+  "pattern": {
+   "solid": 0.7759,
+   "striped": 0.0011,
+   "checked": 0.0018,
+   "printed": 0.2212
+  }
+ },
+ "53759": {
+  "sleeve": {
+   "short": 0.9366,
+   "long": 0.0634
+  },
+  "pattern": {
+   "solid": 0.9063,
+   "striped": 0.0238,
+   "checked": 0.0008,
+   "printed": 0.0691
+  }
+ },
+ "7990": {
+  "sleeve": {
+   "short": 0.9789,
+   "long": 0.0211
+  },
+  "pattern": {
+   "solid": 0.0557,
+   "striped": 0.0144,
+   "checked": 0.0018,
+   "printed": 0.9281
+  }
+ },
+ "3954": {
+  "sleeve": {
+   "short": 0.9471,
+   "long": 0.0529
+  },
+  "pattern": {
+   "solid": 0.0384,
+   "striped": 0.0103,
+   "checked": 0.0,
+   "printed": 0.9512
+  }
+ },
+ "38630": {
+  "sleeve": {
+   "short": 0.9777,
+   "long": 0.0223
+  },
+  "pattern": {
+   "solid": 0.8554,
+   "striped": 0.0333,
+   "checked": 0.0,
+   "printed": 0.1112
+  }
+ },
+ "15528": {
+  "sleeve": {
+   "short": 0.8992,
+   "long": 0.1008
+  },
+  "pattern": {
+   "solid": 0.0055,
+   "striped": 0.0019,
+   "checked": 0.0013,
+   "printed": 0.9913
+  }
+ },
+ "18237": {
+  "sleeve": {
+   "short": 0.9698,
+   "long": 0.0302
+  },
+  "pattern": {
+   "solid": 0.4841,
+   "striped": 0.0021,
+   "checked": 0.0,
+   "printed": 0.5138
+  }
+ },
+ "5865": {
+  "sleeve": {
+   "short": 0.9513,
+   "long": 0.0487
+  },
+  "pattern": {
+   "solid": 0.0039,
+   "striped": 0.0009,
+   "checked": 0.0003,
+   "printed": 0.9949
+  }
+ },
+ "9694": {
+  "sleeve": {
+   "short": 0.968,
+   "long": 0.032
+  },
+  "pattern": {
+   "solid": 0.0858,
+   "striped": 0.8762,
+   "checked": 0.0106,
+   "printed": 0.0274
+  }
+ },
+ "7964": {
+  "sleeve": {
+   "short": 0.9598,
+   "long": 0.0402
+  },
+  "pattern": {
+   "solid": 0.0563,
+   "striped": 0.0016,
+   "checked": 0.0001,
+   "printed": 0.9421
+  }
+ },
+ "3365": {
+  "sleeve": {
+   "short": 0.9208,
+   "long": 0.0792
+  },
+  "pattern": {
+   "solid": 0.005,
+   "striped": 0.0003,
+   "checked": 0.0003,
+   "printed": 0.9943
+  }
+ },
+ "5092": {
+  "sleeve": {
+   "short": 0.9666,
+   "long": 0.0334
+  },
+  "pattern": {
+   "solid": 0.9296,
+   "striped": 0.0081,
+   "checked": 0.0002,
+   "printed": 0.0621
+  }
+ },
+ "24062": {
+  "sleeve": {
+   "short": 0.9286,
+   "long": 0.0714
+  },
+  "pattern": {
+   "solid": 0.0043,
+   "striped": 0.0002,
+   "checked": 0.0001,
+   "printed": 0.9954
+  }
+ },
+ "14293": {
+  "sleeve": {
+   "short": 0.9493,
+   "long": 0.0507
+  },
+  "pattern": {
+   "solid": 0.7242,
+   "striped": 0.2209,
+   "checked": 0.0077,
+   "printed": 0.0473
+  }
+ },
+ "9835": {
+  "sleeve": {
+   "short": 0.9248,
+   "long": 0.0752
+  },
+  "pattern": {
+   "solid": 0.0026,
+   "striped": 0.0004,
+   "checked": 0.0005,
+   "printed": 0.9965
+  }
+ },
+ "3701": {
+  "sleeve": {
+   "short": 0.9619,
+   "long": 0.0381
+  },
+  "pattern": {
+   "solid": 0.0217,
+   "striped": 0.0004,
+   "checked": 0.0014,
+   "printed": 0.9765
+  }
+ },
+ "6287": {
+  "sleeve": {
+   "short": 0.8412,
+   "long": 0.1588
+  },
+  "pattern": {
+   "solid": 0.8016,
+   "striped": 0.1189,
+   "checked": 0.0003,
+   "printed": 0.0792
+  }
+ },
+ "43500": {
+  "sleeve": {
+   "short": 0.9246,
+   "long": 0.0754
+  },
+  "pattern": {
+   "solid": 0.0084,
+   "striped": 0.0006,
+   "checked": 0.0001,
+   "printed": 0.991
+  }
+ },
+ "15187": {
+  "sleeve": {
+   "short": 0.9703,
+   "long": 0.0297
+  },
+  "pattern": {
+   "solid": 0.7124,
+   "striped": 0.0041,
+   "checked": 0.0002,
+   "printed": 0.2834
+  }
+ },
+ "28469": {
+  "sleeve": {
+   "short": 0.9602,
+   "long": 0.0398
+  },
+  "pattern": {
+   "solid": 0.0152,
+   "striped": 0.0011,
+   "checked": 0.0002,
+   "printed": 0.9835
+  }
+ },
+ "44341": {
+  "sleeve": {
+   "short": 0.9856,
+   "long": 0.0144
+  },
+  "pattern": {
+   "solid": 0.9371,
+   "striped": 0.0044,
+   "checked": 0.0,
+   "printed": 0.0585
+  }
+ },
+ "29789": {
+  "sleeve": {
+   "short": 0.9155,
+   "long": 0.0845
+  },
+  "pattern": {
+   "solid": 0.4766,
+   "striped": 0.0238,
+   "checked": 0.0001,
+   "printed": 0.4995
+  }
+ },
+ "13426": {
+  "sleeve": {
+   "short": 0.9135,
+   "long": 0.0865
+  },
+  "pattern": {
+   "solid": 0.0893,
+   "striped": 0.898,
+   "checked": 0.007,
+   "printed": 0.0057
+  }
+ },
+ "20258": {
+  "sleeve": {
+   "short": 0.9761,
+   "long": 0.0239
+  },
+  "pattern": {
+   "solid": 0.3237,
+   "striped": 0.2921,
+   "checked": 0.0155,
+   "printed": 0.3686
+  }
+ },
+ "5862": {
+  "sleeve": {
+   "short": 0.9403,
+   "long": 0.0597
+  },
+  "pattern": {
+   "solid": 0.0067,
+   "striped": 0.9916,
+   "checked": 0.0005,
+   "printed": 0.0012
+  }
+ },
+ "2049": {
+  "sleeve": {
+   "short": 0.9446,
+   "long": 0.0554
+  },
+  "pattern": {
+   "solid": 0.412,
+   "striped": 0.0187,
+   "checked": 0.0001,
+   "printed": 0.5692
+  }
+ },
+ "38637": {
+  "sleeve": {
+   "short": 0.9379,
+   "long": 0.0621
+  },
+  "pattern": {
+   "solid": 0.0423,
+   "striped": 0.0,
+   "checked": 0.0,
+   "printed": 0.9577
+  }
+ },
+ "17278": {
+  "sleeve": {
+   "short": 0.9447,
+   "long": 0.0553
+  },
+  "pattern": {
+   "solid": 0.02,
+   "striped": 0.0007,
+   "checked": 0.0002,
+   "printed": 0.9792
+  }
+ },
+ "18230": {
+  "sleeve": {
+   "short": 0.9544,
+   "long": 0.0456
+  },
+  "pattern": {
+   "solid": 0.0146,
+   "striped": 0.0002,
+   "checked": 0.0,
+   "printed": 0.9852
+  }
+ },
+ "3953": {
+  "sleeve": {
+   "short": 0.9526,
+   "long": 0.0474
+  },
+  "pattern": {
+   "solid": 0.0108,
+   "striped": 0.0001,
+   "checked": 0.0,
+   "printed": 0.9891
+  }
+ },
+ "29321": {
+  "sleeve": {
+   "short": 0.9794,
+   "long": 0.0206
+  },
+  "pattern": {
+   "solid": 0.0271,
+   "striped": 0.0046,
+   "checked": 0.0004,
+   "printed": 0.9679
+  }
+ },
+ "32769": {
+  "sleeve": {
+   "short": 0.9783,
+   "long": 0.0217
+  },
+  "pattern": {
+   "solid": 0.1353,
+   "striped": 0.0122,
+   "checked": 0.0023,
+   "printed": 0.8502
+  }
+ },
+ "1852": {
+  "sleeve": {
+   "short": 0.9094,
+   "long": 0.0906
+  },
+  "pattern": {
+   "solid": 0.0095,
+   "striped": 0.0004,
+   "checked": 0.0001,
+   "printed": 0.99
+  }
+ },
+ "24091": {
+  "sleeve": {
+   "short": 0.8566,
+   "long": 0.1434
+  },
+  "pattern": {
+   "solid": 0.0559,
+   "striped": 0.7991,
+   "checked": 0.0182,
+   "printed": 0.1268
+  }
+ },
+ "4381": {
+  "sleeve": {
+   "short": 0.9051,
+   "long": 0.0949
+  },
+  "pattern": {
+   "solid": 0.0145,
+   "striped": 0.0033,
+   "checked": 0.0001,
+   "printed": 0.982
+  }
+ },
+ "22366": {
+  "sleeve": {
+   "short": 0.9797,
+   "long": 0.0203
+  },
+  "pattern": {
+   "solid": 0.4475,
+   "striped": 0.0021,
+   "checked": 0.0001,
+   "printed": 0.5502
+  }
+ },
+ "31543": {
+  "sleeve": {
+   "short": 0.9651,
+   "long": 0.0349
+  },
+  "pattern": {
+   "solid": 0.094,
+   "striped": 0.8876,
+   "checked": 0.0099,
+   "printed": 0.0085
+  }
+ },
+ "6280": {
+  "sleeve": {
+   "short": 0.8635,
+   "long": 0.1365
+  },
+  "pattern": {
+   "solid": 0.0071,
+   "striped": 0.0029,
+   "checked": 0.0003,
+   "printed": 0.9897
+  }
+ },
+ "2620": {
+  "sleeve": {
+   "short": 0.914,
+   "long": 0.086
+  },
+  "pattern": {
+   "solid": 0.0056,
+   "striped": 0.0,
+   "checked": 0.0,
+   "printed": 0.9943
+  }
+ },
+ "53795": {
+  "sleeve": {
+   "short": 0.9489,
+   "long": 0.0511
+  },
+  "pattern": {
+   "solid": 0.0127,
+   "striped": 0.008,
+   "checked": 0.0018,
+   "printed": 0.9774
+  }
+ },
+ "6274": {
+  "sleeve": {
+   "short": 0.974,
+   "long": 0.026
+  },
+  "pattern": {
+   "solid": 0.5074,
+   "striped": 0.0198,
+   "checked": 0.0002,
+   "printed": 0.4725
+  }
+ }
+}

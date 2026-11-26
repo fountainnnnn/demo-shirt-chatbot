@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.uv/
+.venv/
+__pycache__/
+bin/
+data/catalog/garments/
+data/catalog/images/
+data/state.sqlite*
+data/tryon/
+data/uploads/
+docs/build-guide.html
+models/
+vendor/
+weights/
+.cloudflare/

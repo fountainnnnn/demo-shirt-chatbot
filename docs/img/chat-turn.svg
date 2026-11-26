@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 660" width="800" height="660" role="img" aria-labelledby="t d">
+<title id="t">Request flow of one chat turn</title>
+<desc id="d">Six steps in order: extract, decide, search, pick, size, try on. Extract and pick use the language model; the rest is code. Decide can end the turn early with a clarifying question.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#141414;font-size:15px}
+.s{font-size:13px;fill:#45453F}
+.b{font-weight:600}
+.box{fill:#fff;stroke:#141414;stroke-width:1}
+.m{fill:#fff;stroke:#C8322B;stroke-width:1.5}
+.ln{stroke:#141414;stroke-width:1;fill:none}
+.dash{stroke:#7C7C75;stroke-width:1;fill:none;stroke-dasharray:5 4}
+</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#141414"/></marker></defs>
+<rect width="800" height="660" fill="#fff"/>
+<text x="30" y="30" class="b">One user message in</text>
+<text x="500" y="30" class="b">Sent to the browser (SSE events)</text>
+<path class="ln" d="M220 38V64" marker-end="url(#a)"/>
+
+<rect class="m" x="30" y="66" width="380" height="56"/>
+<text x="44" y="90" class="b">1. Extract</text><text x="44" y="110" class="s">Code reads what it can; the LLM fills the rest</text>
+<path class="ln" d="M220 122V154" marker-end="url(#a)"/>
+
+<rect class="box" x="30" y="156" width="380" height="56"/>
+<text x="44" y="180" class="b">2. Decide</text><text x="44" y="200" class="s">Code: is a slot missing that changes the results?</text>
+<path class="ln" d="M412 184H498" marker-end="url(#a)"/><text x="455" y="176" text-anchor="middle" class="s">yes</text>
+<rect class="box" x="500" y="162" width="270" height="44"/>
+<text x="514" y="181">question</text><text x="514" y="197" class="s">one question, the turn ends</text>
+<path class="ln" d="M220 212V244" marker-end="url(#a)"/><text x="230" y="234" class="s">no, or three questions already asked</text>
+
+<rect class="box" x="30" y="246" width="380" height="56"/>
+<text x="44" y="270" class="b">3. Search</text><text x="44" y="290" class="s">Filters, near matches if under 3 exact, rank, top 8</text>
+<path class="ln" d="M220 302V334" marker-end="url(#a)"/>
+
+<rect class="m" x="30" y="336" width="380" height="56"/>
+<text x="44" y="360" class="b">4. Pick</text><text x="44" y="380" class="s">LLM picks 3 of 8 (skipped if 3 or fewer exact)</text>
+<path class="ln" d="M412 364H498" marker-end="url(#a)"/>
+<rect class="box" x="500" y="342" width="270" height="44"/>
+<text x="514" y="361">results</text><text x="514" y="377" class="s">cards built from tool data, plus reasons</text>
+<path class="ln" d="M220 392V424" marker-end="url(#a)"/>
+
+<rect class="box" x="30" y="426" width="380" height="56"/>
+<text x="44" y="450" class="b">5. Size</text><text x="44" y="470" class="s">Code: recommend_size, once height and weight are known</text>
+<path class="ln" d="M412 454H498" marker-end="url(#a)"/>
+<rect class="box" x="500" y="432" width="270" height="44"/>
+<text x="514" y="451">size</text><text x="514" y="467" class="s">numbers from the size engine</text>
+<path class="ln" d="M220 482V514" marker-end="url(#a)"/>
+
+<rect class="box" x="30" y="516" width="380" height="56"/>
+<text x="44" y="540" class="b">6. Try on</text><text x="44" y="560" class="s">Separate request: the page starts a job, polls it</text>
+<path class="ln" d="M412 544H498" marker-end="url(#a)"/>
+<rect class="box" x="500" y="522" width="270" height="44"/>
+<text x="514" y="541">GET /api/tryon/{id}</text><text x="514" y="557" class="s">status, then the image URL</text>
+
+<line class="dash" x1="30" y1="598" x2="770" y2="598"/>
+<text x="30" y="624">Cards, prices and sizes come from tool results, never from model text.</text>
+<text x="30" y="644" class="s">The reply is streamed as text events. A state event carries the updated wants and profile; a done event ends the turn.</text>
+</svg>

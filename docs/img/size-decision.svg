@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 720" width="800" height="720" role="img" aria-labelledby="t d">
+<title id="t">How the size engine picks a size</title>
+<desc id="d">Chest is either measured or estimated from height and weight, matched to the size chart, shifted by fit preference, then scored for confidence.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#141414;font-size:15px}
+.s{font-size:13px;fill:#45453F}
+.b{font-weight:600}
+.box{fill:#fff;stroke:#141414;stroke-width:1}
+.ln{stroke:#141414;stroke-width:1;fill:none}
+.acc{fill:#C8322B;font-size:13px}
+</style>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#141414"/></marker></defs>
+<rect width="800" height="720" fill="#fff"/>
+
+<rect class="box" x="190" y="16" width="420" height="52"/>
+<text x="400" y="38" text-anchor="middle" class="b">Inputs</text>
+<text x="400" y="57" text-anchor="middle" class="s">height, weight, gender, fit (slim, regular, loose), chest if measured</text>
+<path class="ln" d="M400 68V86" marker-end="url(#a)"/>
+
+<path class="box" d="M400 88L530 128L400 168L270 128Z"/>
+<text x="400" y="133" text-anchor="middle">Chest measured?</text>
+<path class="ln" d="M270 128H140V200" marker-end="url(#a)"/><text x="204" y="120" class="s">yes</text>
+<path class="ln" d="M530 128H660V200" marker-end="url(#a)"/><text x="594" y="120" class="s">no</text>
+
+<rect class="box" x="30" y="202" width="220" height="60"/>
+<text x="140" y="226" text-anchor="middle">Use the measured chest</text>
+<text x="140" y="246" text-anchor="middle" class="acc">confidence starts at 0.95</text>
+<rect class="box" x="550" y="202" width="220" height="60"/>
+<text x="660" y="226" text-anchor="middle">Estimate from height, weight</text>
+<text x="660" y="246" text-anchor="middle" class="acc">confidence starts at 0.85</text>
+<path class="ln" d="M140 262V284H660V262M400 284V304" marker-end="url(#a)"/>
+
+<rect class="box" x="170" y="306" width="460" height="76"/>
+<text x="400" y="330" text-anchor="middle" class="b">Chart size</text>
+<text x="400" y="350" text-anchor="middle" class="s">The size whose body_chest range contains the chest.</text>
+<text x="400" y="368" text-anchor="middle" class="s">Off the chart: first or last size, and <tspan class="acc">minus 0.20</tspan>.</text>
+<path class="ln" d="M400 382V404" marker-end="url(#a)"/>
+
+<rect class="box" x="170" y="406" width="460" height="92"/>
+<text x="400" y="430" text-anchor="middle" class="b">Fit preference</text>
+<text x="400" y="450" text-anchor="middle" class="s">loose: one size up, unless already the largest.</text>
+<text x="400" y="468" text-anchor="middle" class="s">slim: one size down if the chest is in the lower third of the range.</text>
+<text x="400" y="486" text-anchor="middle" class="s">regular: no change.</text>
+<path class="ln" d="M400 498V520" marker-end="url(#a)"/>
+
+<rect class="box" x="170" y="522" width="460" height="76"/>
+<text x="400" y="546" text-anchor="middle" class="b">Confidence adjustments</text>
+<text x="400" y="566" text-anchor="middle" class="s">Chest within 1.5 cm of a size boundary: <tspan class="acc">minus 0.10</tspan>.</text>
+<text x="400" y="584" text-anchor="middle" class="s">Height or weight outside the plausible range, clamped: <tspan class="acc">minus 0.10</tspan>.</text>
+<path class="ln" d="M400 598V620" marker-end="url(#a)"/>
+
+<rect class="box" x="170" y="622" width="460" height="78"/>
+<text x="400" y="646" text-anchor="middle" class="b">Result</text>
+<text x="400" y="666" text-anchor="middle" class="s">size, chart_size, moved, chest_cm, room_cm,</text>
+<text x="400" y="684" text-anchor="middle" class="s">garment chest, length, shoulder, ranges, confidence, notes</text>
+</svg>

@@ -1,0 +1,6 @@
+{
+ "model": "local:bge-small-en-v1.5-f16",
+ "dim": 384,
+ "count": 100,
+ "created": "2026-11-26T03:27:23Z"
+}

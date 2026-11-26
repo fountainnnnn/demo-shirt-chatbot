@@ -1,0 +1,6702 @@
+[
+ {
+  "id": 15970,
+  "name": "Navy blue checked flannel shirt",
+  "brand": "Turtle",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "navy blue",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton flannel",
+  "price": 43,
+  "image": "images/15970.jpg",
+  "description": "Navy blue long-sleeved casual shirt in cotton flannel by Turtle, checked, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 105,
+     "length": 75,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 113,
+     "length": 77,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 121,
+     "length": 79,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 129,
+     "length": 81,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Turtle Check Men Navy Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 30805,
+  "name": "Green striped handloom shirt",
+  "brand": "Fabindia",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "green",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "ethnic",
+  "season": "summer",
+  "fabric": "handloom cotton",
+  "price": 35,
+  "image": "images/30805.jpg",
+  "description": "Green long-sleeved ethnic shirt in handloom cotton by Fabindia, striped, relaxed fit, for men, summer.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 103,
+     "length": 73,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 111,
+     "length": 75,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 119,
+     "length": 77,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 127,
+     "length": 79,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Fabindia Men Striped Green Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 26960,
+  "name": "Purple poplin shirt",
+  "brand": "Jealous 21",
+  "gender": "women",
+  "type": "shirt",
+  "colour": "purple",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton poplin",
+  "price": 31,
+  "image": "images/26960.jpg",
+  "description": "Purple short-sleeved casual shirt in cotton poplin by Jealous 21, solid colour, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 90,
+     "length": 63,
+     "shoulder": 38
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 98,
+     "length": 65,
+     "shoulder": 39
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 106,
+     "length": 67,
+     "shoulder": 41
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 114,
+     "length": 69,
+     "shoulder": 43
+    }
+   ]
+  },
+  "source_name": "Jealous 21 Women Purple Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 12369,
+  "name": "Purple striped poplin shirt",
+  "brand": "Reid & Taylor",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "purple",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "formal",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 66,
+  "image": "images/12369.jpg",
+  "description": "Purple long-sleeved formal shirt in cotton poplin by Reid & Taylor, striped, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 72,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 74,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 76,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 78,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Reid & Taylor Men Check Purple Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 37812,
+  "name": "Navy blue twill shirt",
+  "brand": "John Players",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "navy blue",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "formal",
+  "season": "summer",
+  "fabric": "fine cotton twill",
+  "price": 63,
+  "image": "images/37812.jpg",
+  "description": "Navy blue long-sleeved formal shirt in fine cotton twill by John Players, solid colour, slim fit, for men, summer.",
+  "size_chart": {
+   "fit": "slim",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 97,
+     "length": 72,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 105,
+     "length": 74,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 113,
+     "length": 76,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 121,
+     "length": 78,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "John Players Men Navy Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 56825,
+  "name": "Brown checked brushed cotton shirt",
+  "brand": "John Players",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "brown",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "brushed cotton",
+  "price": 34,
+  "image": "images/56825.jpg",
+  "description": "Brown short-sleeved casual shirt in brushed cotton by John Players, checked, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 73,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 75,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 77,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 79,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "John Players Men Brown Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 9452,
+  "name": "Red striped poplin shirt",
+  "brand": "John Miller",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "red",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "formal",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 60,
+  "image": "images/9452.jpg",
+  "description": "Red long-sleeved formal shirt in cotton poplin by John Miller, striped, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 73,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 75,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 77,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 79,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "John Miller Men Stripes White Red Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 4943,
+  "name": "White checked twill shirt",
+  "brand": "Gini and Jony",
+  "gender": "boys",
+  "type": "shirt",
+  "colour": "white",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton twill",
+  "price": 30,
+  "image": "images/4943.jpg",
+  "description": "White short-sleeved casual shirt in cotton twill by Gini and Jony, checked, regular fit, for boys, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      60,
+      66
+     ],
+     "garment_chest": 70,
+     "length": 50,
+     "shoulder": 32
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      66,
+      72
+     ],
+     "garment_chest": 76,
+     "length": 54,
+     "shoulder": 34
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      72,
+      78
+     ],
+     "garment_chest": 82,
+     "length": 58,
+     "shoulder": 36
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      78,
+      84
+     ],
+     "garment_chest": 88,
+     "length": 62,
+     "shoulder": 38
+    }
+   ]
+  },
+  "source_name": "Gini and Jony Boy's Kaleb White Brown Kidswear",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 9660,
+  "name": "Pink striped oxford shirt",
+  "brand": "Indigo Nation",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "pink",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "oxford cotton",
+  "price": 31,
+  "image": "images/9660.jpg",
+  "description": "Pink long-sleeved casual shirt in oxford cotton by Indigo Nation, striped, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 104,
+     "length": 73,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 112,
+     "length": 75,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 120,
+     "length": 77,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 128,
+     "length": 79,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Indigo Nation Men Reversible Bling Pink Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 15984,
+  "name": "Yellow checked flannel shirt",
+  "brand": "Turtle",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "yellow",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton flannel",
+  "price": 38,
+  "image": "images/15984.jpg",
+  "description": "Yellow long-sleeved casual shirt in cotton flannel by Turtle, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 73,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 75,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 77,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 79,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Turtle Check Men Yellow Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 59297,
+  "name": "White checked brushed cotton shirt",
+  "brand": "U.S. Polo Assn.",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "white",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "brushed cotton",
+  "price": 41,
+  "image": "images/59297.jpg",
+  "description": "White long-sleeved casual shirt in brushed cotton by U.S. Polo Assn., checked, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 104,
+     "length": 74,
+     "shoulder": 46
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 112,
+     "length": 76,
+     "shoulder": 48
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 120,
+     "length": 78,
+     "shoulder": 50
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 128,
+     "length": 80,
+     "shoulder": 52
+    }
+   ]
+  },
+  "source_name": "U.S. Polo Assn. Men White & Navy Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 7158,
+  "name": "Green checked brushed cotton shirt",
+  "brand": "Scullers",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "green",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "brushed cotton",
+  "price": 50,
+  "image": "images/7158.jpg",
+  "description": "Green long-sleeved casual shirt in brushed cotton by Scullers, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Scullers Men Green Check Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 16392,
+  "name": "Red checked flannel shirt",
+  "brand": "Levi's",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "red",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton flannel",
+  "price": 54,
+  "image": "images/16392.jpg",
+  "description": "Red short-sleeved casual shirt in cotton flannel by Levi's, checked, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 104,
+     "length": 73,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 112,
+     "length": 75,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 120,
+     "length": 77,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 128,
+     "length": 79,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Levis Men Check Red Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 6617,
+  "name": "Black checked brushed cotton shirt",
+  "brand": "Spykar",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "black",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "brushed cotton",
+  "price": 49,
+  "image": "images/6617.jpg",
+  "description": "Black long-sleeved casual shirt in brushed cotton by Spykar, checked, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 73,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 75,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 77,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 79,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Spykar Men Black and white Check Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 22395,
+  "name": "Blue striped poplin shirt",
+  "brand": "Mark Taylor",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 57,
+  "image": "images/22395.jpg",
+  "description": "Blue long-sleeved casual shirt in cotton poplin by Mark Taylor, striped, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 71,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 73,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 75,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 77,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Mark Taylor Men Striped Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 12500,
+  "name": "Black poplin shirt",
+  "brand": "United Colors of Benetton",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "black",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 60,
+  "image": "images/12500.jpg",
+  "description": "Black long-sleeved casual shirt in cotton poplin by United Colors of Benetton, solid colour, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 103,
+     "length": 74,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 111,
+     "length": 76,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 119,
+     "length": 78,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 127,
+     "length": 80,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "United Colors of Benetton Men Short Black Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 16530,
+  "name": "Red checked flannel shirt",
+  "brand": "Locomotive",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "red",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton flannel",
+  "price": 57,
+  "image": "images/16530.jpg",
+  "description": "Red long-sleeved casual shirt in cotton flannel by Locomotive, checked, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 105,
+     "length": 75,
+     "shoulder": 46
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 113,
+     "length": 77,
+     "shoulder": 48
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 121,
+     "length": 79,
+     "shoulder": 50
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 129,
+     "length": 81,
+     "shoulder": 52
+    }
+   ]
+  },
+  "source_name": "Locomotive Men Check Red Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 7167,
+  "name": "Purple checked twill shirt",
+  "brand": "Scullers",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "purple",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton twill",
+  "price": 49,
+  "image": "images/7167.jpg",
+  "description": "Purple long-sleeved casual shirt in cotton twill by Scullers, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Scullers Men Scul Purple White Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 12190,
+  "name": "Blue checked brushed cotton shirt",
+  "brand": "Basics",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "brushed cotton",
+  "price": 48,
+  "image": "images/12190.jpg",
+  "description": "Blue long-sleeved casual shirt in brushed cotton by Basics, checked, slim fit, for men, fall.",
+  "size_chart": {
+   "fit": "slim",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 97,
+     "length": 70,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 105,
+     "length": 72,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 113,
+     "length": 74,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 121,
+     "length": 76,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Basics Men Blue Slim Fit Checked Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 14055,
+  "name": "Green checked brushed cotton shirt",
+  "brand": "Flying Machine",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "green",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "brushed cotton",
+  "price": 42,
+  "image": "images/14055.jpg",
+  "description": "Green long-sleeved casual shirt in brushed cotton by Flying Machine, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 73,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 75,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 77,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 79,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Flying Machine Men Check Green Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 34036,
+  "name": "Blue checked twill shirt",
+  "brand": "Palm Tree",
+  "gender": "boys",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton twill",
+  "price": 36,
+  "image": "images/34036.jpg",
+  "description": "Blue short-sleeved casual shirt in cotton twill by Palm Tree, checked, regular fit, for boys, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      60,
+      66
+     ],
+     "garment_chest": 72,
+     "length": 49,
+     "shoulder": 32
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      66,
+      72
+     ],
+     "garment_chest": 78,
+     "length": 53,
+     "shoulder": 34
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      72,
+      78
+     ],
+     "garment_chest": 84,
+     "length": 57,
+     "shoulder": 36
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      78,
+      84
+     ],
+     "garment_chest": 90,
+     "length": 61,
+     "shoulder": 38
+    }
+   ]
+  },
+  "source_name": "Palm Tree Boys Check Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 8779,
+  "name": "Navy blue satin shirt",
+  "brand": "Indigo Nation",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "navy blue",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton satin",
+  "price": 37,
+  "image": "images/8779.jpg",
+  "description": "Navy blue long-sleeved casual shirt in cotton satin by Indigo Nation, solid colour, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Indigo Nation Men Club Satin Hot Stepper Navy Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 11143,
+  "name": "Black checked brushed cotton shirt",
+  "brand": "Scullers",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "black",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "brushed cotton",
+  "price": 48,
+  "image": "images/11143.jpg",
+  "description": "Black long-sleeved casual shirt in brushed cotton by Scullers, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Scullers Men Price Catch Black Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 11371,
+  "name": "Black linen-blend shirt",
+  "brand": "United Colors of Benetton",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "black",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "linen blend",
+  "price": 38,
+  "image": "images/11371.jpg",
+  "description": "Black long-sleeved casual shirt in linen blend by United Colors of Benetton, solid colour, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 103,
+     "length": 74,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 111,
+     "length": 76,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 119,
+     "length": 78,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 127,
+     "length": 80,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "United Colors Of Benetton Men Summer Black Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 13846,
+  "name": "Blue striped poplin shirt",
+  "brand": "John Miller",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 42,
+  "image": "images/13846.jpg",
+  "description": "Blue long-sleeved casual shirt in cotton poplin by John Miller, striped, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 103,
+     "length": 75,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 111,
+     "length": 77,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 119,
+     "length": 79,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 127,
+     "length": 81,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "John Miller Men Stripes Blue Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 15983,
+  "name": "Burgundy cotton shirt",
+  "brand": "Turtle",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "burgundy",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "light cotton",
+  "price": 57,
+  "image": "images/15983.jpg",
+  "description": "Burgundy long-sleeved casual shirt in light cotton by Turtle, solid colour, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 105,
+     "length": 75,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 113,
+     "length": 77,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 121,
+     "length": 79,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 129,
+     "length": 81,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Turtle Solid Men Burgundy Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 43960,
+  "name": "Grey twill shirt",
+  "brand": "Indigo Nation",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "grey",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "formal",
+  "season": "summer",
+  "fabric": "fine cotton twill",
+  "price": 75,
+  "image": "images/43960.jpg",
+  "description": "Grey long-sleeved formal shirt in fine cotton twill by Indigo Nation, solid colour, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Indigo Nation Men Grey Striped Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 8741,
+  "name": "Navy blue checked brushed cotton shirt",
+  "brand": "Indigo Nation",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "navy blue",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "brushed cotton",
+  "price": 45,
+  "image": "images/8741.jpg",
+  "description": "Navy blue long-sleeved casual shirt in brushed cotton by Indigo Nation, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Indigo Nation Men Checks Shirt Navy Blue Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 22359,
+  "name": "Blue checked brushed cotton shirt",
+  "brand": "John Players",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "brushed cotton",
+  "price": 29,
+  "image": "images/22359.jpg",
+  "description": "Blue long-sleeved casual shirt in brushed cotton by John Players, checked, relaxed fit, for men, summer.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 105,
+     "length": 75,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 113,
+     "length": 77,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 121,
+     "length": 79,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 129,
+     "length": 81,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "John Players Men Check Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 4944,
+  "name": "White checked flannel shirt",
+  "brand": "Gini and Jony",
+  "gender": "boys",
+  "type": "shirt",
+  "colour": "white",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton flannel",
+  "price": 25,
+  "image": "images/4944.jpg",
+  "description": "White short-sleeved casual shirt in cotton flannel by Gini and Jony, checked, regular fit, for boys, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      60,
+      66
+     ],
+     "garment_chest": 70,
+     "length": 50,
+     "shoulder": 32
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      66,
+      72
+     ],
+     "garment_chest": 76,
+     "length": 54,
+     "shoulder": 34
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      72,
+      78
+     ],
+     "garment_chest": 82,
+     "length": 58,
+     "shoulder": 36
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      78,
+      84
+     ],
+     "garment_chest": 88,
+     "length": 62,
+     "shoulder": 38
+    }
+   ]
+  },
+  "source_name": "Gini and Jony Boy's Kaleb White Brown Infant Kidswear",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 9667,
+  "name": "Purple striped oxford shirt",
+  "brand": "Indigo Nation",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "purple",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "oxford cotton",
+  "price": 56,
+  "image": "images/9667.jpg",
+  "description": "Purple long-sleeved casual shirt in oxford cotton by Indigo Nation, striped, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Indigo Nation Men Bling Red Black Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 8587,
+  "name": "Red checked twill shirt",
+  "brand": "Scullers",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "red",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton twill",
+  "price": 34,
+  "image": "images/8587.jpg",
+  "description": "Red long-sleeved casual shirt in cotton twill by Scullers, checked, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 104,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 112,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 120,
+     "length": 77,
+     "shoulder": 50
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 128,
+     "length": 79,
+     "shoulder": 52
+    }
+   ]
+  },
+  "source_name": "Scullers Men Red Check Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 9455,
+  "name": "Red striped twill shirt",
+  "brand": "John Miller",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "red",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "formal",
+  "season": "fall",
+  "fabric": "fine cotton twill",
+  "price": 63,
+  "image": "images/9455.jpg",
+  "description": "Red long-sleeved formal shirt in fine cotton twill by John Miller, striped, slim fit, for men, fall.",
+  "size_chart": {
+   "fit": "slim",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 95,
+     "length": 72,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 103,
+     "length": 74,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 111,
+     "length": 76,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 119,
+     "length": 78,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "John Miller Men Red Striped Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 26369,
+  "name": "Blue poplin shirt",
+  "brand": "Arrow",
+  "gender": "women",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton poplin",
+  "price": 37,
+  "image": "images/26369.jpg",
+  "description": "Blue short-sleeved casual shirt in cotton poplin by Arrow, solid colour, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 89,
+     "length": 62,
+     "shoulder": 37
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 97,
+     "length": 64,
+     "shoulder": 38
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 105,
+     "length": 66,
+     "shoulder": 40
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 113,
+     "length": 68,
+     "shoulder": 42
+    }
+   ]
+  },
+  "source_name": "Arrow Woman Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 33489,
+  "name": "Green checked brushed cotton shirt",
+  "brand": "Doodle",
+  "gender": "boys",
+  "type": "shirt",
+  "colour": "green",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "brushed cotton",
+  "price": 38,
+  "image": "images/33489.jpg",
+  "description": "Green short-sleeved casual shirt in brushed cotton by Doodle, checked, regular fit, for boys, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      60,
+      66
+     ],
+     "garment_chest": 70,
+     "length": 50,
+     "shoulder": 33
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      66,
+      72
+     ],
+     "garment_chest": 76,
+     "length": 54,
+     "shoulder": 35
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      72,
+      78
+     ],
+     "garment_chest": 82,
+     "length": 58,
+     "shoulder": 37
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      78,
+      84
+     ],
+     "garment_chest": 88,
+     "length": 62,
+     "shoulder": 39
+    }
+   ]
+  },
+  "source_name": "Doodle Kids Boy Check Green Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 15977,
+  "name": "Red cotton shirt",
+  "brand": "Turtle",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "red",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "light cotton",
+  "price": 58,
+  "image": "images/15977.jpg",
+  "description": "Red long-sleeved casual shirt in light cotton by Turtle, solid colour, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 73,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 75,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 77,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 79,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Turtle Solid Men Red Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 30802,
+  "name": "Blue handloom shirt",
+  "brand": "Fabindia",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "ethnic",
+  "season": "summer",
+  "fabric": "handloom cotton",
+  "price": 55,
+  "image": "images/30802.jpg",
+  "description": "Blue short-sleeved ethnic shirt in handloom cotton by Fabindia, solid colour, relaxed fit, for men, summer.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 103,
+     "length": 73,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 111,
+     "length": 75,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 119,
+     "length": 77,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 127,
+     "length": 79,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Fabindia Men Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 16361,
+  "name": "Maroon striped poplin shirt",
+  "brand": "Peter England",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "maroon",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "formal",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 66,
+  "image": "images/16361.jpg",
+  "description": "Maroon long-sleeved formal shirt in cotton poplin by Peter England, striped, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Peter England Men Stripes Maroon Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 34031,
+  "name": "Blue checked flannel shirt",
+  "brand": "Gini and Jony",
+  "gender": "boys",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton flannel",
+  "price": 31,
+  "image": "images/34031.jpg",
+  "description": "Blue short-sleeved casual shirt in cotton flannel by Gini and Jony, checked, regular fit, for boys, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      60,
+      66
+     ],
+     "garment_chest": 70,
+     "length": 50,
+     "shoulder": 32
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      66,
+      72
+     ],
+     "garment_chest": 76,
+     "length": 54,
+     "shoulder": 34
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      72,
+      78
+     ],
+     "garment_chest": 82,
+     "length": 58,
+     "shoulder": 36
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      78,
+      84
+     ],
+     "garment_chest": 88,
+     "length": 62,
+     "shoulder": 38
+    }
+   ]
+  },
+  "source_name": "Gini and Jony Boys Check Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 11144,
+  "name": "Black checked flannel shirt",
+  "brand": "Scullers",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "black",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton flannel",
+  "price": 36,
+  "image": "images/11144.jpg",
+  "description": "Black long-sleeved casual shirt in cotton flannel by Scullers, checked, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 104,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 112,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 120,
+     "length": 77,
+     "shoulder": 50
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 128,
+     "length": 79,
+     "shoulder": 52
+    }
+   ]
+  },
+  "source_name": "Scullers Men Price Catch Black Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 14052,
+  "name": "White poplin shirt",
+  "brand": "Flying Machine",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "white",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 58,
+  "image": "images/14052.jpg",
+  "description": "White long-sleeved casual shirt in cotton poplin by Flying Machine, solid colour, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 73,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 75,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 77,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 79,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Flying Machine Men Solid White Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 11712,
+  "name": "Blue linen-blend shirt",
+  "brand": "Lee",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "linen blend",
+  "price": 49,
+  "image": "images/11712.jpg",
+  "description": "Blue long-sleeved casual shirt in linen blend by Lee, solid colour, relaxed fit, for men, summer.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 103,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 111,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 119,
+     "length": 77,
+     "shoulder": 50
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 127,
+     "length": 79,
+     "shoulder": 52
+    }
+   ]
+  },
+  "source_name": "Lee Men Solid Blue Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 25527,
+  "name": "Green striped oxford shirt",
+  "brand": "Wrangler",
+  "gender": "women",
+  "type": "shirt",
+  "colour": "green",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "oxford cotton",
+  "price": 53,
+  "image": "images/25527.jpg",
+  "description": "Green long-sleeved casual shirt in oxford cotton by Wrangler, striped, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 89,
+     "length": 62,
+     "shoulder": 36
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 97,
+     "length": 64,
+     "shoulder": 37
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 105,
+     "length": 66,
+     "shoulder": 39
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 113,
+     "length": 68,
+     "shoulder": 41
+    }
+   ]
+  },
+  "source_name": "Wrangler Women Stella Green Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 13879,
+  "name": "Red checked twill shirt",
+  "brand": "Scullers",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "red",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton twill",
+  "price": 46,
+  "image": "images/13879.jpg",
+  "description": "Red long-sleeved casual shirt in cotton twill by Scullers, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Scullers Men Check Red Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 26958,
+  "name": "Teal chambray shirt",
+  "brand": "Jealous 21",
+  "gender": "women",
+  "type": "shirt",
+  "colour": "teal",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton chambray",
+  "price": 36,
+  "image": "images/26958.jpg",
+  "description": "Teal short-sleeved casual shirt in cotton chambray by Jealous 21, solid colour, relaxed fit, for women, summer.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 94,
+     "length": 65,
+     "shoulder": 39
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 102,
+     "length": 67,
+     "shoulder": 40
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 110,
+     "length": 69,
+     "shoulder": 42
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 118,
+     "length": 71,
+     "shoulder": 44
+    }
+   ]
+  },
+  "source_name": "Jealous 21 Women Teal Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 13283,
+  "name": "Blue checked brushed cotton shirt",
+  "brand": "Gini and Jony",
+  "gender": "boys",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "brushed cotton",
+  "price": 42,
+  "image": "images/13283.jpg",
+  "description": "Blue long-sleeved casual shirt in brushed cotton by Gini and Jony, checked, regular fit, for boys, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      60,
+      66
+     ],
+     "garment_chest": 70,
+     "length": 50,
+     "shoulder": 32
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      66,
+      72
+     ],
+     "garment_chest": 76,
+     "length": 54,
+     "shoulder": 34
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      72,
+      78
+     ],
+     "garment_chest": 82,
+     "length": 58,
+     "shoulder": 36
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      78,
+      84
+     ],
+     "garment_chest": 88,
+     "length": 62,
+     "shoulder": 38
+    }
+   ]
+  },
+  "source_name": "Gini and Jony Kids Boys Check Blue Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 37224,
+  "name": "Purple poplin shirt",
+  "brand": "United Colors of Benetton",
+  "gender": "women",
+  "type": "shirt",
+  "colour": "purple",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton poplin",
+  "price": 33,
+  "image": "images/37224.jpg",
+  "description": "Purple long-sleeved casual shirt in cotton poplin by United Colors of Benetton, solid colour, relaxed fit, for women, summer.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 93,
+     "length": 64,
+     "shoulder": 37
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 66,
+     "shoulder": 38
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 68,
+     "shoulder": 40
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 70,
+     "shoulder": 42
+    }
+   ]
+  },
+  "source_name": "United Colors of Benetton Women Purple Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 21173,
+  "name": "Grey poplin shirt",
+  "brand": "s.Oliver",
+  "gender": "women",
+  "type": "shirt",
+  "colour": "grey",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 52,
+  "image": "images/21173.jpg",
+  "description": "Grey long-sleeved casual shirt in cotton poplin by s.Oliver, solid colour, regular fit, for women, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 91,
+     "length": 62,
+     "shoulder": 38
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 64,
+     "shoulder": 39
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 66,
+     "shoulder": 41
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 68,
+     "shoulder": 43
+    }
+   ]
+  },
+  "source_name": "s.Oliver Women Grey Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 6046,
+  "name": "Green oxford shirt",
+  "brand": "United Colors of Benetton",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "green",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "oxford cotton",
+  "price": 33,
+  "image": "images/6046.jpg",
+  "description": "Green short-sleeved casual shirt in oxford cotton by United Colors of Benetton, solid colour, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 72,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 74,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 76,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 78,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "UCB Men Logo Chest Green Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 24065,
+  "name": "Green checked twill shirt",
+  "brand": "Locomotive",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "green",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton twill",
+  "price": 44,
+  "image": "images/24065.jpg",
+  "description": "Green long-sleeved casual shirt in cotton twill by Locomotive, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 73,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 75,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 77,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 79,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Locomotive Men Checked Green Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 16395,
+  "name": "Black checked twill shirt",
+  "brand": "Levi's",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "black",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton twill",
+  "price": 49,
+  "image": "images/16395.jpg",
+  "description": "Black short-sleeved casual shirt in cotton twill by Levi's, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Levis Men Check Black Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 9658,
+  "name": "Maroon striped poplin shirt",
+  "brand": "Indigo Nation",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "maroon",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 38,
+  "image": "images/9658.jpg",
+  "description": "Maroon long-sleeved casual shirt in cotton poplin by Indigo Nation, striped, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 104,
+     "length": 73,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 112,
+     "length": 75,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 120,
+     "length": 77,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 128,
+     "length": 79,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Indigo Nation Men Reversible Bling Maroon Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 34038,
+  "name": "Red checked flannel shirt",
+  "brand": "Gini and Jony",
+  "gender": "boys",
+  "type": "shirt",
+  "colour": "red",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton flannel",
+  "price": 30,
+  "image": "images/34038.jpg",
+  "description": "Red short-sleeved casual shirt in cotton flannel by Gini and Jony, checked, regular fit, for boys, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      60,
+      66
+     ],
+     "garment_chest": 70,
+     "length": 50,
+     "shoulder": 32
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      66,
+      72
+     ],
+     "garment_chest": 76,
+     "length": 54,
+     "shoulder": 34
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      72,
+      78
+     ],
+     "garment_chest": 82,
+     "length": 58,
+     "shoulder": 36
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      78,
+      84
+     ],
+     "garment_chest": 88,
+     "length": 62,
+     "shoulder": 38
+    }
+   ]
+  },
+  "source_name": "Gini and Jony Boys Check Red Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 8777,
+  "name": "Blue striped poplin shirt",
+  "brand": "Indigo Nation",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "long",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 49,
+  "image": "images/8777.jpg",
+  "description": "Blue long-sleeved casual shirt in cotton poplin by Indigo Nation, striped, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 104,
+     "length": 73,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 112,
+     "length": 75,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 120,
+     "length": 77,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 128,
+     "length": 79,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Indigo Nation Men Price catch Blue Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 39727,
+  "name": "Blue twill shirt",
+  "brand": "Arrow",
+  "gender": "women",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "formal",
+  "season": "summer",
+  "fabric": "fine cotton twill",
+  "price": 57,
+  "image": "images/39727.jpg",
+  "description": "Blue long-sleeved formal shirt in fine cotton twill by Arrow, solid colour, slim fit, for women, summer.",
+  "size_chart": {
+   "fit": "slim",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 85,
+     "length": 61,
+     "shoulder": 36
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 93,
+     "length": 63,
+     "shoulder": 37
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 101,
+     "length": 65,
+     "shoulder": 39
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 109,
+     "length": 67,
+     "shoulder": 41
+    }
+   ]
+  },
+  "source_name": "Arrow Woman Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 7169,
+  "name": "Blue checked brushed cotton shirt",
+  "brand": "Scullers",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "brushed cotton",
+  "price": 48,
+  "image": "images/7169.jpg",
+  "description": "Blue short-sleeved casual shirt in brushed cotton by Scullers, checked, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 104,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 112,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 120,
+     "length": 77,
+     "shoulder": 50
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 128,
+     "length": 79,
+     "shoulder": 52
+    }
+   ]
+  },
+  "source_name": "Scullers Men Scul Navy Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 13870,
+  "name": "Beige striped poplin shirt",
+  "brand": "Scullers",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "beige",
+  "sleeve": "short",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 36,
+  "image": "images/13870.jpg",
+  "description": "Beige short-sleeved casual shirt in cotton poplin by Scullers, striped, relaxed fit, for men, fall.",
+  "size_chart": {
+   "fit": "relaxed",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 104,
+     "length": 73,
+     "shoulder": 46
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 112,
+     "length": 75,
+     "shoulder": 48
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 120,
+     "length": 77,
+     "shoulder": 50
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 128,
+     "length": 79,
+     "shoulder": 52
+    }
+   ]
+  },
+  "source_name": "Scullers Men Stripes Beige Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 27877,
+  "name": "Navy blue printed chambray shirt",
+  "brand": "Scullers",
+  "gender": "women",
+  "type": "shirt",
+  "colour": "navy blue",
+  "sleeve": "long",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton chambray",
+  "price": 34,
+  "image": "images/27877.jpg",
+  "description": "Navy blue long-sleeved casual shirt in cotton chambray by Scullers, printed, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 90,
+     "length": 61,
+     "shoulder": 38
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 98,
+     "length": 63,
+     "shoulder": 39
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 106,
+     "length": 65,
+     "shoulder": 41
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 114,
+     "length": 67,
+     "shoulder": 43
+    }
+   ]
+  },
+  "source_name": "Scullers For Her Women Printed Navy Blue Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 13884,
+  "name": "Black checked flannel shirt",
+  "brand": "Scullers",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "black",
+  "sleeve": "long",
+  "pattern": "checked",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton flannel",
+  "price": 31,
+  "image": "images/13884.jpg",
+  "description": "Black long-sleeved casual shirt in cotton flannel by Scullers, checked, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 71,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 73,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 75,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 77,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Scullers Men Check Black Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 12358,
+  "name": "Cream poplin shirt",
+  "brand": "Reid & Taylor",
+  "gender": "men",
+  "type": "shirt",
+  "colour": "cream",
+  "sleeve": "long",
+  "pattern": "solid",
+  "usage": "formal",
+  "season": "fall",
+  "fabric": "cotton poplin",
+  "price": 71,
+  "image": "images/12358.jpg",
+  "description": "Cream long-sleeved formal shirt in cotton poplin by Reid & Taylor, solid colour, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 72,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 74,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 76,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 78,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Reid & Taylor Men Solid Cream Shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 53759,
+  "name": "Grey cotton t-shirt",
+  "brand": "Puma",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "grey",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton jersey",
+  "price": 14,
+  "image": "images/53759.jpg",
+  "description": "Grey short-sleeved casual t-shirt in cotton jersey by Puma, solid colour, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 68,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 70,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 72,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 74,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Puma Men Grey T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 7990,
+  "name": "Navy blue printed mesh t-shirt",
+  "brand": "Fila",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "navy blue",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "sports",
+  "season": "fall",
+  "fabric": "polyester mesh",
+  "price": 18,
+  "image": "images/7990.jpg",
+  "description": "Navy blue short-sleeved sports t-shirt in polyester mesh by Fila, printed, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 67,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 69,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 71,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 73,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Fila Men's Round Neck Navy Blue T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 3954,
+  "name": "Pink printed cotton t-shirt",
+  "brand": "Jealous 21",
+  "gender": "women",
+  "type": "tshirt",
+  "colour": "pink",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 21,
+  "image": "images/3954.jpg",
+  "description": "Pink short-sleeved casual t-shirt in soft cotton by Jealous 21, printed, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 90,
+     "length": 59,
+     "shoulder": 38
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 98,
+     "length": 61,
+     "shoulder": 39
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 106,
+     "length": 63,
+     "shoulder": 41
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 114,
+     "length": 65,
+     "shoulder": 43
+    }
+   ]
+  },
+  "source_name": "Jealous 21 Women's Pink T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 38630,
+  "name": "Purple pique polo t-shirt",
+  "brand": "Nike",
+  "gender": "women",
+  "type": "tshirt",
+  "colour": "purple",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton pique",
+  "price": 32,
+  "image": "images/38630.jpg",
+  "description": "Purple short-sleeved casual polo t-shirt in cotton pique by Nike, solid colour, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 90,
+     "length": 57,
+     "shoulder": 36
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 98,
+     "length": 59,
+     "shoulder": 37
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 106,
+     "length": 61,
+     "shoulder": 39
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 114,
+     "length": 63,
+     "shoulder": 41
+    }
+   ]
+  },
+  "source_name": "Nike Women Purple Polo T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 15528,
+  "name": "Black printed cotton t-shirt",
+  "brand": "Puma",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "black",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "soft cotton",
+  "price": 21,
+  "image": "images/15528.jpg",
+  "description": "Black short-sleeved casual t-shirt in soft cotton by Puma, printed, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 68,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 70,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 72,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 74,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Puma Men Scribble Black Tshirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 18237,
+  "name": "Red sleeveless cotton t-shirt",
+  "brand": "Manchester United",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "red",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "combed cotton",
+  "price": 28,
+  "image": "images/18237.jpg",
+  "description": "Red sleeveless casual t-shirt in combed cotton by Manchester United, solid colour, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 67,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 69,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 71,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 73,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Manchester United Men Solid Red Tshirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 5865,
+  "name": "Black printed cotton t-shirt",
+  "brand": "Adidas",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "black",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "combed cotton",
+  "price": 19,
+  "image": "images/5865.jpg",
+  "description": "Black short-sleeved casual t-shirt in combed cotton by Adidas, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 67,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 69,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 71,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 73,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "ADIDAS Men's Twelve Faster T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 9694,
+  "name": "White striped pique polo t-shirt",
+  "brand": "Classic Polo",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "white",
+  "sleeve": "short",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton pique",
+  "price": 27,
+  "image": "images/9694.jpg",
+  "description": "White short-sleeved casual polo t-shirt in cotton pique by Classic Polo, striped, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 68,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 70,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 72,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 74,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Classic Polo Men Vulcan White Polo Tshirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 7964,
+  "name": "Black printed dry-fit t-shirt",
+  "brand": "Puma",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "black",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "sports",
+  "season": "fall",
+  "fabric": "dry-fit polyester",
+  "price": 26,
+  "image": "images/7964.jpg",
+  "description": "Black short-sleeved sports t-shirt in dry-fit polyester by Puma, printed, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 68,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 70,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 72,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 74,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Puma Men's Large Logo Graphic Black T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 3365,
+  "name": "Black printed cotton t-shirt",
+  "brand": "Myntra",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "black",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 24,
+  "image": "images/3365.jpg",
+  "description": "Black short-sleeved casual t-shirt in soft cotton by Myntra, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 69,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 71,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 73,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 75,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Myntra Men's Brain Black T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 5092,
+  "name": "Purple striped cotton t-shirt",
+  "brand": "Wrangler",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "purple",
+  "sleeve": "short",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 28,
+  "image": "images/5092.jpg",
+  "description": "Purple short-sleeved casual t-shirt in soft cotton by Wrangler, striped, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 68,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 70,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 72,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 74,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Wrangler Men's Minstrel Shoulder Loop Purple T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 24062,
+  "name": "Navy blue printed cotton t-shirt",
+  "brand": "Locomotive",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "navy blue",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton jersey",
+  "price": 14,
+  "image": "images/24062.jpg",
+  "description": "Navy blue short-sleeved casual t-shirt in cotton jersey by Locomotive, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 69,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 71,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 73,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 75,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Locomotive Men Navy Blue Printed T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 14293,
+  "name": "Blue striped pique polo t-shirt",
+  "brand": "Classic Polo",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton pique",
+  "price": 24,
+  "image": "images/14293.jpg",
+  "description": "Blue short-sleeved casual polo t-shirt in cotton pique by Classic Polo, striped, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 68,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 70,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 72,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 74,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Classic Polo Men Stripes Blue Tshirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 9835,
+  "name": "Grey printed cotton t-shirt",
+  "brand": "Little Miss",
+  "gender": "women",
+  "type": "tshirt",
+  "colour": "grey",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "soft cotton",
+  "price": 26,
+  "image": "images/9835.jpg",
+  "description": "Grey short-sleeved casual t-shirt in soft cotton by Little Miss, printed, regular fit, for women, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 91,
+     "length": 59,
+     "shoulder": 36
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 61,
+     "shoulder": 37
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 63,
+     "shoulder": 39
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 65,
+     "shoulder": 41
+    }
+   ]
+  },
+  "source_name": "Little Miss Women Printed Grey T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 3701,
+  "name": "Black printed cotton t-shirt",
+  "brand": "Tantra",
+  "gender": "women",
+  "type": "tshirt",
+  "colour": "black",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 23,
+  "image": "images/3701.jpg",
+  "description": "Black short-sleeved casual t-shirt in soft cotton by Tantra, printed, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 91,
+     "length": 59,
+     "shoulder": 36
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 61,
+     "shoulder": 37
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 63,
+     "shoulder": 39
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 65,
+     "shoulder": 41
+    }
+   ]
+  },
+  "source_name": "Tantra Women Flower Heart Black Long T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 6287,
+  "name": "Yellow pique polo t-shirt",
+  "brand": "Classic Polo",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "yellow",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton pique",
+  "price": 28,
+  "image": "images/6287.jpg",
+  "description": "Yellow short-sleeved casual polo t-shirt in cotton pique by Classic Polo, solid colour, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 68,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 70,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 72,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 74,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Classic Polo Men's Swiss Yellow T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 43500,
+  "name": "White printed cotton t-shirt",
+  "brand": "French Connection",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "white",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "combed cotton",
+  "price": 19,
+  "image": "images/43500.jpg",
+  "description": "White short-sleeved casual t-shirt in combed cotton by French Connection, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 69,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 71,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 73,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 75,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "French Connection Men White T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 15187,
+  "name": "White pique polo t-shirt",
+  "brand": "Arrow Sport",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "white",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton pique",
+  "price": 26,
+  "image": "images/15187.jpg",
+  "description": "White short-sleeved casual polo t-shirt in cotton pique by Arrow Sport, solid colour, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 68,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 70,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 72,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 74,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Arrow Sport Men Solid White Polo Tshirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 28469,
+  "name": "Pink printed cotton t-shirt",
+  "brand": "Urban Yoga",
+  "gender": "women",
+  "type": "tshirt",
+  "colour": "pink",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 16,
+  "image": "images/28469.jpg",
+  "description": "Pink short-sleeved casual t-shirt in soft cotton by Urban Yoga, printed, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 91,
+     "length": 59,
+     "shoulder": 38
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 61,
+     "shoulder": 39
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 63,
+     "shoulder": 41
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 65,
+     "shoulder": 43
+    }
+   ]
+  },
+  "source_name": "Urban Yoga Women Printed Pink T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 44341,
+  "name": "Blue cotton t-shirt",
+  "brand": "Indian Terrain",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 23,
+  "image": "images/44341.jpg",
+  "description": "Blue short-sleeved casual t-shirt in soft cotton by Indian Terrain, solid colour, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 67,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 69,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 71,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 73,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Indian Terrain Men Blue T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 29789,
+  "name": "Pink cotton t-shirt",
+  "brand": "Basics",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "pink",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 22,
+  "image": "images/29789.jpg",
+  "description": "Pink short-sleeved casual t-shirt in soft cotton by Basics, solid colour, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 67,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 69,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 71,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 73,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Basics Men Pack of 3 T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 13426,
+  "name": "Red striped pique polo t-shirt",
+  "brand": "United Colors of Benetton",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "red",
+  "sleeve": "short",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton pique",
+  "price": 29,
+  "image": "images/13426.jpg",
+  "description": "Red short-sleeved casual polo t-shirt in cotton pique by United Colors of Benetton, striped, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 68,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 70,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 72,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 74,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "United Colors of Benetton Men Stripes Red Polo T-shirts",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 20258,
+  "name": "Brown striped pique polo t-shirt",
+  "brand": "Wrangler",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "brown",
+  "sleeve": "short",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton pique",
+  "price": 29,
+  "image": "images/20258.jpg",
+  "description": "Brown short-sleeved casual polo t-shirt in cotton pique by Wrangler, striped, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 68,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 70,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 72,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 74,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Wrangler Men Polo Charcoal T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 5862,
+  "name": "Black striped cotton t-shirt",
+  "brand": "Adidas",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "black",
+  "sleeve": "short",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 24,
+  "image": "images/5862.jpg",
+  "description": "Black short-sleeved casual t-shirt in soft cotton by Adidas, striped, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 67,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 69,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 71,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 73,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "ADIDAS Men's Stripe Black T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 2049,
+  "name": "White mesh t-shirt",
+  "brand": "Adidas",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "white",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "sports",
+  "season": "summer",
+  "fabric": "polyester mesh",
+  "price": 32,
+  "image": "images/2049.jpg",
+  "description": "White short-sleeved sports t-shirt in polyester mesh by Adidas, solid colour, slim fit, for men, summer.",
+  "size_chart": {
+   "fit": "slim",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 95,
+     "length": 66,
+     "shoulder": 42
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 103,
+     "length": 68,
+     "shoulder": 44
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 111,
+     "length": 70,
+     "shoulder": 46
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 119,
+     "length": 72,
+     "shoulder": 48
+    }
+   ]
+  },
+  "source_name": "ADIDAS Men's Slim Fit White T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 38637,
+  "name": "Red printed cotton t-shirt",
+  "brand": "Nike",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "red",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 20,
+  "image": "images/38637.jpg",
+  "description": "Red short-sleeved casual t-shirt in soft cotton by Nike, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 67,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 69,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 71,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 73,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Nike Men Red Delhi T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 17278,
+  "name": "Grey printed pique polo t-shirt",
+  "brand": "U.S. Polo Assn.",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "grey",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton pique",
+  "price": 30,
+  "image": "images/17278.jpg",
+  "description": "Grey short-sleeved casual polo t-shirt in cotton pique by U.S. Polo Assn., printed, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 68,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 70,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 72,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 74,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "U.S. Polo Assn. Men Printed Steeple Grey Tshirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 18230,
+  "name": "White printed cotton t-shirt",
+  "brand": "Manchester United",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "white",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "combed cotton",
+  "price": 17,
+  "image": "images/18230.jpg",
+  "description": "White short-sleeved casual t-shirt in combed cotton by Manchester United, printed, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 67,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 69,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 71,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 73,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Manchester United Men Printed White Tshirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 3953,
+  "name": "Red printed cotton t-shirt",
+  "brand": "Jealous 21",
+  "gender": "women",
+  "type": "tshirt",
+  "colour": "red",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton jersey",
+  "price": 17,
+  "image": "images/3953.jpg",
+  "description": "Red short-sleeved casual t-shirt in cotton jersey by Jealous 21, printed, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 90,
+     "length": 59,
+     "shoulder": 38
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 98,
+     "length": 61,
+     "shoulder": 39
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 106,
+     "length": 63,
+     "shoulder": 41
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 114,
+     "length": 65,
+     "shoulder": 43
+    }
+   ]
+  },
+  "source_name": "Jealous 21 Women's Red Peace T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 29321,
+  "name": "Black printed sleeveless jersey t-shirt",
+  "brand": "Adidas",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "black",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "sports",
+  "season": "summer",
+  "fabric": "polyester jersey",
+  "price": 32,
+  "image": "images/29321.jpg",
+  "description": "Black sleeveless sports t-shirt in polyester jersey by Adidas, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 67,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 69,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 71,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 73,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "ADIDAS Men Black Jersey",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 32769,
+  "name": "Blue printed cotton t-shirt",
+  "brand": "Music",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "spring",
+  "fabric": "cotton jersey",
+  "price": 17,
+  "image": "images/32769.jpg",
+  "description": "Blue short-sleeved casual t-shirt in cotton jersey by Music, printed, regular fit, for men, spring.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 69,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 71,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 73,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 75,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Music Men Printed Blue T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 1852,
+  "name": "Blue printed cotton t-shirt",
+  "brand": "Inkfruit",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton jersey",
+  "price": 19,
+  "image": "images/1852.jpg",
+  "description": "Blue short-sleeved casual t-shirt in cotton jersey by Inkfruit, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 69,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 71,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 73,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 75,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Inkfruit Men Ride It Or Die T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 24091,
+  "name": "Navy blue striped cotton t-shirt",
+  "brand": "Manchester United",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "navy blue",
+  "sleeve": "short",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "soft cotton",
+  "price": 18,
+  "image": "images/24091.jpg",
+  "description": "Navy blue short-sleeved casual t-shirt in soft cotton by Manchester United, striped, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 67,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 69,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 71,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 73,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Manchester United Men Navy Blue Striped T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 4381,
+  "name": "Blue printed cotton t-shirt",
+  "brand": "Superman",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 16,
+  "image": "images/4381.jpg",
+  "description": "Blue short-sleeved casual t-shirt in soft cotton by Superman, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 67,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 69,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 71,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 73,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Superman Men's Silhouette Light Blue T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 22366,
+  "name": "White cotton t-shirt",
+  "brand": "Ed Hardy",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "white",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "fall",
+  "fabric": "cotton jersey",
+  "price": 19,
+  "image": "images/22366.jpg",
+  "description": "White short-sleeved casual t-shirt in cotton jersey by Ed Hardy, solid colour, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 68,
+     "shoulder": 45
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 70,
+     "shoulder": 47
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 72,
+     "shoulder": 49
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 74,
+     "shoulder": 51
+    }
+   ]
+  },
+  "source_name": "Ed Hardy Men New Tiger White T-Shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 31543,
+  "name": "Navy blue striped pique polo t-shirt",
+  "brand": "Classic Polo",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "navy blue",
+  "sleeve": "short",
+  "pattern": "striped",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton pique",
+  "price": 25,
+  "image": "images/31543.jpg",
+  "description": "Navy blue short-sleeved casual polo t-shirt in cotton pique by Classic Polo, striped, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 68,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 70,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 72,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 74,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Classic Polo Men Striped Navy Blue T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 6280,
+  "name": "Pink printed cotton t-shirt",
+  "brand": "United Colors of Benetton",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "pink",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "combed cotton",
+  "price": 23,
+  "image": "images/6280.jpg",
+  "description": "Pink short-sleeved casual t-shirt in combed cotton by United Colors of Benetton, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 99,
+     "length": 68,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 107,
+     "length": 70,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 115,
+     "length": 72,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 123,
+     "length": 74,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "UCB Men's Making Light Pink T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 2620,
+  "name": "Blue printed dry-fit t-shirt",
+  "brand": "Nike",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "blue",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "sports",
+  "season": "fall",
+  "fabric": "dry-fit polyester",
+  "price": 23,
+  "image": "images/2620.jpg",
+  "description": "Blue short-sleeved sports t-shirt in dry-fit polyester by Nike, printed, regular fit, for men, fall.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 100,
+     "length": 67,
+     "shoulder": 43
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 108,
+     "length": 69,
+     "shoulder": 45
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 116,
+     "length": 71,
+     "shoulder": 47
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 124,
+     "length": 73,
+     "shoulder": 49
+    }
+   ]
+  },
+  "source_name": "Nike Men's Colors Team India T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 53795,
+  "name": "Black printed cotton t-shirt",
+  "brand": "Puma",
+  "gender": "men",
+  "type": "tshirt",
+  "colour": "black",
+  "sleeve": "short",
+  "pattern": "printed",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "soft cotton",
+  "price": 20,
+  "image": "images/53795.jpg",
+  "description": "Black short-sleeved casual t-shirt in soft cotton by Puma, printed, regular fit, for men, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 101,
+     "length": 68,
+     "shoulder": 44
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 109,
+     "length": 70,
+     "shoulder": 46
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 117,
+     "length": 72,
+     "shoulder": 48
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      110,
+      118
+     ],
+     "garment_chest": 125,
+     "length": 74,
+     "shoulder": 50
+    }
+   ]
+  },
+  "source_name": "Puma Men Black T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ },
+ {
+  "id": 6274,
+  "name": "Green cotton t-shirt",
+  "brand": "United Colors of Benetton",
+  "gender": "women",
+  "type": "tshirt",
+  "colour": "green",
+  "sleeve": "short",
+  "pattern": "solid",
+  "usage": "casual",
+  "season": "summer",
+  "fabric": "cotton jersey",
+  "price": 32,
+  "image": "images/6274.jpg",
+  "description": "Green short-sleeved casual t-shirt in cotton jersey by United Colors of Benetton, solid colour, regular fit, for women, summer.",
+  "size_chart": {
+   "fit": "regular",
+   "sizes": [
+    {
+     "size": "S",
+     "body_chest": [
+      78,
+      86
+     ],
+     "garment_chest": 89,
+     "length": 58,
+     "shoulder": 36
+    },
+    {
+     "size": "M",
+     "body_chest": [
+      86,
+      94
+     ],
+     "garment_chest": 97,
+     "length": 60,
+     "shoulder": 37
+    },
+    {
+     "size": "L",
+     "body_chest": [
+      94,
+      102
+     ],
+     "garment_chest": 105,
+     "length": 62,
+     "shoulder": 39
+    },
+    {
+     "size": "XL",
+     "body_chest": [
+      102,
+      110
+     ],
+     "garment_chest": 113,
+     "length": 64,
+     "shoulder": 41
+    }
+   ]
+  },
+  "source_name": "UCB Women's Crystal Benetton Green T-shirt",
+  "synthetic": [
+   "price",
+   "fabric",
+   "size_chart"
+  ]
+ }
+]
